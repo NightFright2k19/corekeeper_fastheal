@@ -1,4 +1,4 @@
-# FAST HEAL/EAT AUTOHOTKEY SCRIPT FOR CORE KEEPER
+# FAST HEAL/EAT AUTOHOTKEY V2 SCRIPT FOR CORE KEEPER
 
 This is a small mod for the game <a href="https://store.steampowered.com/app/1621690/Core_Keeper" target= "_blank">**Core Keeper**</a> which adds three hotkeys to the game while it is loaded: "F" for healing, "G" for consuming food items and (as a bonus) "H" to quickly switch to a different off-hand item stored in the second row of the hotbar.<br><br>
 Its basic concept is heavily inspired by the existing mod <a href="https://mod.io/g/corekeeper/m/bind4consumables#description" target= "_blank">**Bind4Consumables**</a> which is not working any more with latest versions of the game. The advantage of this script is that it will ALWAYS work, regardless of any game-related changes.<br><br>
@@ -24,7 +24,7 @@ Notes:<br>
 
 **How to recompile:**<br>
 You may alter the script as you wish, e.g. in order to adjust hotkeys. You can do so by editing the script with a text editor. Both the script (ck_fastheal.ahk) and the icon file (ck_icon.ico) are included in the release ("Source" subdir).<br>
-- Get <a href="https://www.autohotkey.com" target= "_blank">AutoHotkey</a><br>
+- Get <a href="https://www.autohotkey.com" target= "_blank">AutoHotkey v2</a><br>
 - Get the <a href="https://github.com/AutoHotkey/Ahk2Exe" target= "_blank">AHK script compiler (Ahk2Exe)</a><br>
 - Place Ahk2Exe.exe in your AutoHotkey folder (or wherever else you want), then launch it<br>
 - Compilation setup:<br> 
