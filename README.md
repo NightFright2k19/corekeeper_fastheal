@@ -2,8 +2,9 @@
 
 This is a small mod for the game <a href="https://store.steampowered.com/app/1621690/Core_Keeper" target= "_blank">**Core Keeper**</a> which adds three hotkeys to the game while it is loaded: "F" for healing, "G" for consuming food items and (as a bonus) "H" to quickly switch to a different off-hand item stored in the second row of the hotbar.<br><br>
 Its basic concept is heavily inspired by the existing mod <a href="https://mod.io/g/corekeeper/m/bind4consumables#description" target= "_blank">**Bind4Consumables**</a> which is not working any more with latest versions of the game. The advantage of this script is that it will ALWAYS work, regardless of any game-related changes.<br><br>
-Note:<br>
-If you open the chat window, the hotkeys should not trigger. However, it is assumed the default chat window key ("Enter") is **not** altered.<br><br>
+Notes:<br>
+- If you open the chat window, the hotkeys should not trigger. However, it is assumed the default chat window key ("Enter") is **not** altered.<br>
+- For adding text in any other form, e.g. editing labels for signs or chests, it is recommended to temporarily pause the script via F1.<br><br>
 
 **How to use:**<br>
 - Activate the script (run **ck_fastheal.exe**) and launch the game.<br>
@@ -17,7 +18,7 @@ If you open the chat window, the hotkeys should not trigger. However, it is assu
   **G**: Consume a food item<br>
   **H**: Switch between default/alternate off-hand item<br>
 - Convenience hotkeys (defaults):<br>
-  **F1**: Pause/resume script (recommended if you are entering text; chat should work, but editing signs, chests etc will cause issues)<br>
+  **F1**: Pause/resume script<br>
   **F2**: Reload script<br>
   **F3**: Exit script<br><br>
 
