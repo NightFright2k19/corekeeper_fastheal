@@ -1,3 +1,5 @@
+![fastheal_title2](https://github.com/user-attachments/assets/1e717b90-12d8-4855-a794-57cbf7905db4)
+
 # FAST HEAL/EAT AUTOHOTKEY V2 SCRIPT FOR CORE KEEPER
 
 This is a small mod for the game <a href="https://store.steampowered.com/app/1621690/Core_Keeper" target= "_blank">**Core Keeper**</a> which adds three hotkeys to the game while it is loaded: "F" for healing, "G" for consuming food items and (as a bonus) "H" to quickly switch to a different off-hand item stored in the second row of the hotbar.<br><br>
